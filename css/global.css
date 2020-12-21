@@ -6,5 +6,8 @@
 
 }
 .bg-aside a svg{
-  color: #fd7e14 !important;
+  color: #fc7522 !important;
+}
+.bg-header{
+  background-color: #fc7522 !important;
 }
